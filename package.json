@@ -1,0 +1,13 @@
+{
+  "name": "Bitcoin",
+  "version": "1.0.0",
+  "description": "Simple bitcoin application ",
+  "main": "index.js",
+  "repository": "https://github.com/Awattling/Bitcoin-App.git",
+  "author": "Awattling <awattling@shaw.ca>",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^2.1.1",
+    "react": "^16.6.1"
+  }
+}
